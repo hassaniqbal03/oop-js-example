@@ -40,4 +40,5 @@ Each concept is implemented in a **separate file**, making it easy to understand
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/oop-js-examples.git
+git clone https://github.com/USERNAME/oop-js-example.git
+
